@@ -1,0 +1,293 @@
+[
+    {
+      "roundName": "Adelaide",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "50m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "40m",
+          "faceType": "80cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "30m",
+          "faceType": "80cm",
+          "numberOfEnds": "5"
+        }
+      ]
+    },
+    {
+      "roundName": "Olympic",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "50m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "30m",
+          "faceType": "80cm",
+          "numberOfEnds": "6"
+        }
+      ]
+    },
+    {
+      "roundName": "Brisbane",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "90m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "50m",
+          "faceType": "80cm",
+          "numberOfEnds": "4"
+        }
+      ]
+    },
+    {
+      "roundName": "WA90/1440",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "90m",
+          "faceType": "122cm",
+          "numberOfEnds": "12"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "12"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "12"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "50m",
+          "faceType": "80cm",
+          "numberOfEnds": "12"
+        }
+      ]
+    },
+    {
+      "roundName": "Canberra",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "90m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "50m",
+          "faceType": "80cm",
+          "numberOfEnds": "5"
+        }
+      ]
+    },
+    {
+      "roundName": "Melbourne",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "90m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "50m",
+          "faceType": "80cm",
+          "numberOfEnds": "6"
+        }
+      ]
+    },
+    {
+      "roundName": "Sydney",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "50m",
+          "faceType": "122cm",
+          "numberOfEnds": "5"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "30m",
+          "faceType": "80cm",
+          "numberOfEnds": "5"
+        }
+      ]
+    },
+    {
+      "roundName": "Perth",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "90m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "50m",
+          "faceType": "80cm",
+          "numberOfEnds": "4"
+        }
+      ]
+    },
+    {
+      "roundName": "Darwin",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "50m",
+          "faceType": "122cm",
+          "numberOfEnds": "6"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "30m",
+          "faceType": "80cm",
+          "numberOfEnds": "6"
+        }
+      ]
+    },
+    {
+      "roundName": "Hobart",
+      "ranges": [
+        {
+          "rangeNum": 1,
+          "distance": "90m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 2,
+          "distance": "70m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 3,
+          "distance": "60m",
+          "faceType": "122cm",
+          "numberOfEnds": "4"
+        },
+        {
+          "rangeNum": 4,
+          "distance": "50m",
+          "faceType": "80cm",
+          "numberOfEnds": "4"
+        }
+      ]
+    }
+  ]
+  

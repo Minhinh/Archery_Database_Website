@@ -1,0 +1,57 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "defaultEquipment": "Recurve"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "defaultEquipment": "Compound"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "defaultEquipment": "Longbow"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "defaultEquipment": "Recurve Barebow"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Wilson",
+    "defaultEquipment": "Compound Barebow"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Thompson",
+    "defaultEquipment": "Recurve"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Taylor",
+    "defaultEquipment": "Longbow"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Anderson",
+    "defaultEquipment": "Compound"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Harris",
+    "defaultEquipment": "Recurve Barebow"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Lewis",
+    "defaultEquipment": "Recurve"
+  },
+  {
+    "firstName": "Irene",
+    "lastName": "Moser",
+    "defaultEquipment": "Recurve"
+  }
+]
